@@ -8,7 +8,7 @@
   "bot": {
     "token": "NTE1NzAxMzE2ODYxODIwOTQ1.DuIb4A.JQ4PmBElkcsCK8opzvtxHJKxFi0",
     "enableCommands": true,
-    "prefix": "~",
+    "prefix": "!",
     "status": "online",
     "activityType": "PLAYING",
     "activityName": "www.knobo.ga",
