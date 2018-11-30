@@ -19,7 +19,7 @@
     "commandAliases": {}
   },
   "database": {
-    "uri": "mongodb://knobo:knobo@knoborss-shard-00-00-roua5.mongodb.net:27017,knoborss-shard-00-01-roua5.mongodb.net:27017,knoborss-shard-00-02-roua5.mongodb.net:27017/admin?replicaSet=KnoboRSS-shard-0&ssl=true",
+    "uri": "mongodb+srv://knobo:<PASSWORD>@knoborss-roua5.mongodb.net/test?retryWrites=true",
     "connection": {},
     "clean": false,
     "articlesExpire": 14,
