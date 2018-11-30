@@ -19,7 +19,7 @@
     "commandAliases": {}
   },
   "database": {
-    "uri": "mongodb+srv://knobo:<PASSWORD>@knoborss-roua5.mongodb.net/test?retryWrites=true",
+    "uri": "mongodb+srv://knobo:knobo@knoborss-roua5.mongodb.net/test?retryWrites=true",
     "connection": {},
     "clean": false,
     "articlesExpire": 14,
